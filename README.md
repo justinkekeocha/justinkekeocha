@@ -1,7 +1,7 @@
 # Hi, I'm Justin Kekeocha! 👋
 
 ## About Me
-I'm a highly skilled and result-driven tech professional with an entrepreneurial spirit and years of experience in building scalable and efficient applications. Based in Owerri, Nigeria, I specialize in backend development, with a history of creating impactful community features and ensuring product quality through robust testing. My work has increased productivity and user activity on the platforms I've contributed to.
+Highly skilled and result-driven tech professional with an entrepreneurial spirit and years of experience in building scalable and efficient applications. I specialize in backend development, with a history of creating impactful community features and ensuring product quality through robust testing. My work has increased productivity and user activity on the platforms I've contributed to.
 
 ## Experience
 - **Backend Developer** at Cykmore (Sept. 2023 - Present)
