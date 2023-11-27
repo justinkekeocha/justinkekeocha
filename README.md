@@ -19,12 +19,16 @@ Highly skilled and result-driven tech professional with an entrepreneurial spiri
   - A replication of the Udemy website using InertiaJs, Vue, TailwindCSS, and Laravel.
 
 ## Open Source Contributions
-- **Nuxt/Nuxt**
+- **[Nuxt/Nuxt](https://bit.ly/3LRC3J4)**
   - Documented advanced layout usage and props passing
-- **Nuxt/UI**
+- **[Nuxt/UI](https://bit.ly/45kM5sX)**
   - Enhanced the table component for responsive design
-- **Bavix/Laravel-wallet**
+- **[Bavix/Laravel-wallet](https://bit.ly/3tnENHP)**
   - Improved documentation and outlined hidden methods
+- **[Justinkekeocha/database-dump](https://github.com/justinkekeocha/database-dump)**
+  - Generate a database snapshot whenever you run the `migrate:fresh` command
+ Justinkekeocha/database-dump
+
 
 ## Skills & Tools
 - **Frontend**: JavaScript, Vue, NuxtJS, JQuery, InertiaJS, CSS, TailwindCSS, Bootstrap
