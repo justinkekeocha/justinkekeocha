@@ -4,12 +4,12 @@
 Highly skilled and result-driven tech professional with an entrepreneurial spirit and years of experience in building scalable and efficient applications. I specialize in backend development, with a history of creating impactful community features and ensuring product quality through robust testing. My work has increased productivity and user activity on the platforms I've contributed to.
 
 ## Experience
-- **Backend Developer** at Cykmore (Sept. 2023 - Present)
+- **Backend Developer** at [Cykmore](https://cykmore.com) (Sept. 2023 - Present)
   - Leveraged OpenAI API for task automation
   - Wrote endpoint tests using PestPHP
   - Developed community features with Laravel PHP
 
-- **Full Stack Developer** at Learnclax (April 2019 - Feb. 2023)
+- **Full Stack Developer** at [Learnclax](https://learnclax.com) (April 2019 - 2023)
   - Designed and maintained the website with a focus on SEO and user retention
   - Implemented a system to prevent abuse of the point system
   - Integrated payment gateways processing over 250 transactions
@@ -27,7 +27,6 @@ Highly skilled and result-driven tech professional with an entrepreneurial spiri
   - Improved documentation and outlined hidden methods
 - **[Justinkekeocha/database-dump](https://github.com/justinkekeocha/database-dump)**
   - Generate a database snapshot whenever you run the `migrate:fresh` command
- Justinkekeocha/database-dump
 
 
 ## Skills & Tools
