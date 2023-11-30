@@ -40,4 +40,3 @@ Feel free to reach out if you'd like to collaborate on projects or just have a c
 
 - 📧 Email: [justinratzinger@gmail.com](mailto:justinratzinger@gmail.com)
 - 🔗 GitHub: [justinkekeocha](https://github.com/justinkekeocha)
-```
